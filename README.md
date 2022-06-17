@@ -1,3 +1,3 @@
-# git_test
+# ODIN PROJECT
 
-Hello Odin
+Storage place for all of my ODIN PROJECT notes and assignments
